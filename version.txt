@@ -1,5 +1,5 @@
 {
   "version": "v1",
   "download_url": "https://github.com/lleonardo553/programas/blob/main/LND%20Clip%20Optimizer%20v1.exe",
-  "changelog": "Versão inicial do LND Clip Optimizer."
+  "changelog": "Versão inicial estável|Sistema de verificação de atualizações integrado|Correção de bugs no gerenciamento de RAM"
 }
