@@ -33,7 +33,7 @@ Baixe na aba:
 
 - Windows 10 ou superior
 - Processador Dual Core+
-- 2 GB RAM mínimo
+- 4 GB RAM mínimo
 
 ---
 
