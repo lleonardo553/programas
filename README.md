@@ -1,4 +1,4 @@
-# 🚀 Programas - LND
+# 🚀 Programas - Leozinho optimizer
 
 Repositório oficial dos meus programas e projetos desktop.
 
@@ -12,7 +12,7 @@ Aqui você encontra aplicativos criados por mim, focados em:
 
 # 📦 Programas Disponíveis
 
-## 🎬 LND Clip Optimizer
+## 🎬 Leozinho Optimizer
 
 Ferramenta desenvolvida para otimizar clipes e melhorar o fluxo de edição.
 
@@ -46,7 +46,7 @@ Baixe apenas pelo repositório oficial.
 
 # 📌 Sobre
 
-Criado por Leonardo (LND)
+Criado por Leonardo
 
 📺 Criador de conteúdo e desenvolvedor iniciante apaixonado por tecnologia.
 
