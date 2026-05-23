@@ -12,7 +12,7 @@ Aqui você encontra aplicativos criados por mim, focados em:
 
 # 📦 Programas Disponíveis
 
-## 🎬 Leozinho Optimizer
+## 🎬 Leozinho Optimizer V1
 
 Ferramenta desenvolvida para otimizar clipes e melhorar o fluxo de edição.
 
